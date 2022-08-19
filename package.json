@@ -37,7 +37,7 @@
     "dist/",
     "ios/",
     "android/",
-    "CapacitorDarkMode.podspec"
+    "RyanBlancoCapacitorDarkMode.podspec"
   ],
   "keywords": [
     "capacitor",
